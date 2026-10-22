@@ -1,0 +1,6 @@
+{
+  "name": "HW-Bench Pro: CPU-Z, HWiNFO & MSI Afterburner Suite",
+  "description": "Suíte completa de diagnóstico de hardware, monitoramento em tempo real estilo HWiNFO e MSI Afterburner OSD com benchmarks avançados de CPU, RAM, GPU 3D, gargalo e jogos para PC e Mobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
